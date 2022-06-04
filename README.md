@@ -1,4 +1,4 @@
-#Clone do youtube com api de streamig de videos propria construida em nodeJs / typescript#
+# Clone do youtube com api de streamig de videos propria construida em nodeJs / typescript
 
 Projeto em NodeJS
 

@@ -6,7 +6,7 @@ Projeto em ReactJs Backend em NodeJs
 ***Link da Api*** https://node-streaming-api.herokuapp.com/<br />
 ***Api hospedada no heroku devido tamanho dos arquivos***<br />
 
-*Versao Projeto Hospedado no Netlify*
-***Link Projeto Hospedado*** https://splendid-hummingbird-58de13.netlify.app/***
+*Versâo Projeto Hospedado no Netlify*<br />
+***Link Projeto Hospedado*** https://splendid-hummingbird-58de13.netlify.app/***<br />
 
 

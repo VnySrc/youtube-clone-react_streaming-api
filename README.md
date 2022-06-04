@@ -12,7 +12,7 @@ Link Projeto Hospedado https://splendid-hummingbird-58de13.netlify.app/ <br />
 
 ***Instalção*** <br />
 
--Dentro da pasta client <br />
+- Dentro da pasta client <br />
 npm install <br />
-npm start <br />
+npm run start <br />
 acessar 127.0.0.1:3000 <br />

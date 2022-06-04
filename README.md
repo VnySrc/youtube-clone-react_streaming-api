@@ -16,6 +16,3 @@
 npm install <br />
 npm start <br />
 acessar 127.0.0.1:3000 <br />
-
-/
-h

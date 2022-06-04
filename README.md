@@ -3,7 +3,8 @@
 Projeto em ReactJs Backend em NodeJs
 
 *Projeto em react que consome uma api de straming de videos* <br />
-***Link da Api*** https://node-streaming-api.herokuapp.com/<br />
+***Link da Api Heroku*** https://node-streaming-api.herokuapp.com/<br />
+***Link da Api Heroku*** https://github.com/VnySrc/node-api-streaming<br />
 ***Api hospedada no heroku devido tamanho dos arquivos***<br />
 
 *Versâo Projeto Hospedado no Netlify*<br />

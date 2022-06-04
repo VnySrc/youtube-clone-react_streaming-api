@@ -10,4 +10,9 @@ Projeto em ReactJs Backend em NodeJs
 *Versâo Projeto Hospedado no Netlify*<br />
 ***Link Projeto Hospedado*** https://splendid-hummingbird-58de13.netlify.app/ <br />
 
+*Instalção*<br />
+**Dentro da pasta client**<br />
 
+npm install<br />
+npm start<br />
+acessar 127.0.0.1:3000<br />

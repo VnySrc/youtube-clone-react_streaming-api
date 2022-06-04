@@ -2,5 +2,5 @@
 
 Projeto em NodeJS
 
- projeto em react que consome uma api de straming de videos<br />
+*Projeto em react que consome uma api de straming de videos* <br />
 ***Link*** https://splendid-hummingbird-58de13.netlify.app/
